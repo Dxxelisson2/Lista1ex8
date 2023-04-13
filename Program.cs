@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lsita1ex8
+namespace lista1ex8
 {
     class Program
     {
